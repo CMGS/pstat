@@ -47,7 +47,6 @@ setup(
     classifiers=CLASSIFIERS,
     py_modules=MODULES,
     packages=PACKAGES,
-    install_package_data=True,
     zip_safe=False,
     entry_points=ENTRY_POINTS,
     install_requires=INSTALL_REQUIRES,
