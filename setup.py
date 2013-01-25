@@ -15,7 +15,7 @@ KEYWORDS = "process"
 CLASSIFIERS = []
 
 # package contents
-MODULES = []
+MODULES = ['pstat']
 PACKAGES = find_packages(exclude=['tests.*', 'tests', 'examples.*', 'examples'])
 ENTRY_POINTS = """
 """
