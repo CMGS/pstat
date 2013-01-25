@@ -10,8 +10,8 @@ DESCRIPTION = ""
 AUTHOR = "CMGS"
 AUTHOR_EMAIL = "ilskdw@gmail.com"
 LICENSE = "BSD"
-URL = ""
-KEYWORDS = ""
+URL = "https://github.com/CMGS/pstat"
+KEYWORDS = "process"
 CLASSIFIERS = []
 
 # package contents
